@@ -13,6 +13,8 @@ public class String_buffer {
 		StringBuffer name2 = new StringBuffer("Hello");
 		name2.append(" World!");
 		System.out.println(name2);
+		
+		// 
 
 	}
 
