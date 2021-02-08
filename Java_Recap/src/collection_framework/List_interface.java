@@ -36,7 +36,13 @@ public class List_interface {
 		data.set(1, "thing");
 		System.out.println(data);
 		
-
+		List data3 = new ArrayList();
+		data3.add(10);
+		data3.add(20);
+		data3.add(30);
+		data3.add(40);
+		System.out.println(data3);
+		
 
 	}
 
