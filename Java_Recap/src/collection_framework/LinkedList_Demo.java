@@ -2,7 +2,7 @@ package collection_framework;
 
 import java.util.LinkedList;
 
-public class LinkedList_demo {
+public class LinkedList_Demo {
 	
 	public static void main(String[] args) {
 		

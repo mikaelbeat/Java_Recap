@@ -3,7 +3,7 @@ package collection_framework;
 import java.util.ArrayList;
 import java.util.List;
 
-public class List_interface {
+public class List_interface_Demo {
 
 	public static void main(String[] args) {
 		
